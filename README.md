@@ -16,6 +16,4 @@ Durante o curso, desenvolvi conhecimentos em:
 
 Gosto de aprender na prática, construindo projetos que unem backend e frontend, e estou sempre buscando aplicar boas práticas de Programação Orientada a Objetos no meu código.
 
-## 📫 Contato: (49) 98869 - 6644
-
-- Email: [assisleonardo431@gmail.com]
+Email: assisleonardo431@gmail.com
